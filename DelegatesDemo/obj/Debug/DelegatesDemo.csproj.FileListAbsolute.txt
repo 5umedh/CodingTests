@@ -1,0 +1,6 @@
+D:\18 Rakuten\CodingTests\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+D:\18 Rakuten\CodingTests\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+D:\18 Rakuten\CodingTests\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+D:\18 Rakuten\CodingTests\DelegatesDemo\obj\Debug\DelegatesDemo.csprojResolveAssemblyReference.cache
+D:\18 Rakuten\CodingTests\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+D:\18 Rakuten\CodingTests\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

@@ -1,0 +1,28 @@
+H:\CodingTests\CodingTests\bin\Debug\CodingTests.exe.config
+H:\CodingTests\CodingTests\obj\Debug\CodingTests.exe
+H:\CodingTests\CodingTests\obj\Debug\CodingTests.pdb
+D:\PROJECTS\Common\CodingTests\CodingTests\bin\Debug\CodingTests.exe.config
+D:\PROJECTS\Common\CodingTests\CodingTests\bin\Debug\CodingTests.exe
+D:\PROJECTS\Common\CodingTests\CodingTests\bin\Debug\CodingTests.pdb
+D:\PROJECTS\Common\CodingTests\CodingTests\bin\Debug\CSharpTest.Solution.dll
+D:\PROJECTS\Common\CodingTests\CodingTests\bin\Debug\CSharpTest.Solution.pdb
+D:\PROJECTS\Common\CodingTests\CodingTests\obj\Debug\CodingTests.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Common\CodingTests\CodingTests\obj\Debug\CodingTests.CodingTests.resources
+D:\PROJECTS\Common\CodingTests\CodingTests\obj\Debug\CodingTests.Properties.Resources.resources
+D:\PROJECTS\Common\CodingTests\CodingTests\obj\Debug\CodingTests.csproj.GenerateResource.Cache
+D:\PROJECTS\Common\CodingTests\CodingTests\obj\Debug\CodingTests.exe
+D:\PROJECTS\Common\CodingTests\CodingTests\obj\Debug\CodingTests.pdb
+D:\PROJECTS\18 Rakuten\CodingTests\CodingTests\bin\Debug\CodingTests.exe.config
+D:\PROJECTS\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.exe
+D:\PROJECTS\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.pdb
+D:\18 Rakuten\CodingTests\CodingTests\bin\Debug\CodingTests.exe.config
+D:\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.exe
+D:\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.pdb
+D:\18 Rakuten\CodingTests\CodingTests\bin\Debug\CodingTests.exe
+D:\18 Rakuten\CodingTests\CodingTests\bin\Debug\CodingTests.pdb
+D:\18 Rakuten\CodingTests\CodingTests\bin\Debug\CSharpTest.Solution.dll
+D:\18 Rakuten\CodingTests\CodingTests\bin\Debug\CSharpTest.Solution.pdb
+D:\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.csprojResolveAssemblyReference.cache
+D:\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.CodingTests.resources
+D:\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.Properties.Resources.resources
+D:\18 Rakuten\CodingTests\CodingTests\obj\Debug\CodingTests.csproj.GenerateResource.Cache

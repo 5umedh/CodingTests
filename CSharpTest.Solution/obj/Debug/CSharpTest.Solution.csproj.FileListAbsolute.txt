@@ -1,0 +1,8 @@
+D:\PROJECTS\Common\CodingTests\CSharpTest.Solution\bin\Debug\CSharpTest.Solution.dll
+D:\PROJECTS\Common\CodingTests\CSharpTest.Solution\bin\Debug\CSharpTest.Solution.pdb
+D:\PROJECTS\Common\CodingTests\CSharpTest.Solution\obj\Debug\CSharpTest.Solution.dll
+D:\PROJECTS\Common\CodingTests\CSharpTest.Solution\obj\Debug\CSharpTest.Solution.pdb
+D:\18 Rakuten\CodingTests\CSharpTest.Solution\bin\Debug\CSharpTest.Solution.dll
+D:\18 Rakuten\CodingTests\CSharpTest.Solution\bin\Debug\CSharpTest.Solution.pdb
+D:\18 Rakuten\CodingTests\CSharpTest.Solution\obj\Debug\CSharpTest.Solution.dll
+D:\18 Rakuten\CodingTests\CSharpTest.Solution\obj\Debug\CSharpTest.Solution.pdb
